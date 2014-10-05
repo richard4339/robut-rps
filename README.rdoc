@@ -2,7 +2,7 @@
 
 A Rock Paper Scissors module for {Robut}[https://github.com/justinweiss/robut]
 
-{<img src="https://badge.fury.io/rb/robut-rps.png" alt="Gem Version" />}[http://badge.fury.io/rb/robut-rps]
+{<img src="https://badge.fury.io/rb/robut-rps@2x.png" alt="Gem Version" />}[http://badge.fury.io/rb/robut-rps]
 
 == Contributing to robut-rps
  
@@ -16,6 +16,5 @@ A Rock Paper Scissors module for {Robut}[https://github.com/justinweiss/robut]
 
 == Copyright
 
-Copyright (c) 2014 Richard Lynskey. See LICENSE.txt for
-further details.
+Copyright (c) 2014 Richard Lynskey. See LICENSE.txt for further details.
 
