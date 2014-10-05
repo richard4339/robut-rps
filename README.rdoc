@@ -1,6 +1,8 @@
 = robut-rps
 
-Description goes here.
+A Rock Paper Scissors module for {Robut}[https://github.com/justinweiss/robut]
+
+{<img src="https://badge.fury.io/rb/robut-rps.png" alt="Gem Version" />}[http://badge.fury.io/rb/robut-rps]
 
 == Contributing to robut-rps
  
