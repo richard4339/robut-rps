@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/richard4339/robut-rps"
   gem.license = "MIT"
   gem.summary = %Q{A rock paper scissors plugin for robut}
-  gem.description = %Q{A rock paper scissors plugin for robut}
+  gem.description = %Q{A rock paper scissors plugin for robut.}
   gem.email = "richard@mozor.net"
   gem.authors = ["Richard Lynskey"]
   # dependencies defined in Gemfile
